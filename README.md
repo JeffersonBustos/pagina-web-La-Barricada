@@ -1,4 +1,5 @@
 
+"Desarrollo integral de una página web personalizada para satisfacer las necesidades específicas del cliente. Desde la concepción del diseño hasta la implementación completa, se utilizó un enfoque individualizado para garantizar una experiencia de usuario óptima."
 ![1](https://github.com/JeffersonBustos/pagina-web-La-Barricada/assets/70824261/ccea36ce-bb65-467d-b50b-a4fd3e926a8b)
 ![2](https://github.com/JeffersonBustos/pagina-web-La-Barricada/assets/70824261/153e6e1b-f6fa-4f6d-873f-b0437dc75206)
 ![3](https://github.com/JeffersonBustos/pagina-web-La-Barricada/assets/70824261/6a0f8e9d-34ae-44c6-9edb-b069bfa58a6e)
